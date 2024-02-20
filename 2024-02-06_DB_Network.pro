@@ -1,0 +1,1 @@
+QT += core network sql
